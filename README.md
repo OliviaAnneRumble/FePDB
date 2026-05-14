@@ -61,7 +61,7 @@ The exact accession structure may vary by source sequence, but the "fpdb_" prefi
 
 ### Recommended use with DIAMOND
 
-FePDB can be used with DIAMOND for fast protein-level annotation of predicted proteins or translated nucleotide sequences.
+FePDB can be used with DIAMOND for fast protein-level annotation of predicted proteins.
 
 For example:
 
@@ -87,13 +87,11 @@ Suggested filtering fields
 
 For typical downstream analyses, consider filtering DIAMOND output using:
 
-- e-value
 - percent identity (pident)
 - alignment length
 - query coverage (qcovhsp)
-- subject coverage (scovhsp), if relevant
-- best hit per query sequence, when discrete gene counts are desired
-
+- e-value
+  
 Because FePDB is sequence-based, annotations are most appropriate for gene-level or protein-level abundance comparisons generated using a consistent search and filtering strategy.
 
 
