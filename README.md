@@ -144,5 +144,4 @@ Database file: FePDB_v1.0.1.faa
 Number of gene families: 375
 Number of metabolism groups: 18
 Number of reference sequences: 1,374,199
-# FePDB
-FePDB is a databank containing protein sequences for iron and phosphorus genes in soil.
+
