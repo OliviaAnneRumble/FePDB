@@ -132,9 +132,7 @@ Email: oarumb01@gmail.com
 GitHub: https://github.com/OliviaAnneRumble
 
 
-Version notes
-
-Recommended release information to include:
+Version notes:
 
 Version: v1.0.1
 Release date: 05-14-2025
