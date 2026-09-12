@@ -137,7 +137,7 @@ Version notes
 Recommended release information to include:
 
 Version: v1.0.1
-Release date: 05-14-2026
+Release date: 05-14-2025
 Database file: FePDB_v1.0.1.faa
 Number of gene families: 375
 Number of metabolism groups: 18
